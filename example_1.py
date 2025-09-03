@@ -1,7 +1,7 @@
-
-
-
-
+# By Al Sweigart al@inventwithpython.com
+# http://inventwithpython.com/pygame
+# Released under a "Simplified BSD" license
+# ALL CREDIT GOES TO ORIGINAL OWNER ABOVE. JUST COPIED WITHOUT COMMENTS 
 
 import random, pygame, sys
 from pygame.locals import *
